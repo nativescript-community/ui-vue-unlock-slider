@@ -1,0 +1,23 @@
+{
+	"name": "@nativescript-community/ui-vue-slide-to-unlock",
+	"version": "0.0.1",
+	"description": "A NativeScript-Vue component for 'Slide-to-unlock'",
+	"main": "index.js",
+	"nativescript": {
+		"plugin": {
+			"vue": "true"
+		}
+	},
+	"files": [
+		"index.js",
+		"components"
+	],
+	"keywords": [
+		"nativescript",
+		"nativescript-vue",
+		"unlock",
+		"slider"
+	],
+	"author": "André Sharghi <a.sharghi.mail@gmail.com>",
+	"license": "MIT"
+}
