@@ -4,6 +4,12 @@ Slide to unlock in iOS style with animations made with NativeScript-Vue. Works o
 
 <img src="https://raw.githubusercontent.com/nativescript-community/ui-vue-slide-to-unlock/master/demo.gif" width="300">
 
+## Installation
+
+```
+ns plugin add @nativescript-community/ui-vue-unlock-slider
+```
+
 ## Usage
 ```diff
 // main.js
