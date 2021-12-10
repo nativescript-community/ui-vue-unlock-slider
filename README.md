@@ -2,6 +2,8 @@
 
 Slide to unlock in iOS style with animations made with NativeScript-Vue. Works on iOS and Android.
 
+[![npm](https://img.shields.io/npm/v/@nativescript-community/ui-vue-unlock-slider.svg)](https://www.npmjs.com/package/@nativescript-community/ui-vue-unlock-slider)
+
 <img src="https://raw.githubusercontent.com/nativescript-community/ui-vue-slide-to-unlock/master/demo.gif" width="300">
 
 ## Installation
@@ -12,7 +14,7 @@ ns plugin add @nativescript-community/ui-vue-unlock-slider
 
 ## Usage
 ```diff
-// main.js
+// app.js
 import Vue from 'nativescript-vue'
 ...
 + import UnlockSlider from '@nativescript-community/ui-vue-unlock-slider'
