@@ -1,6 +1,6 @@
 {
 	"name": "@nativescript-community/ui-vue-unlock-slider",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"description": "A NativeScript-Vue component for 'Slide-to-unlock'",
 	"main": "index.js",
 	"nativescript": {
